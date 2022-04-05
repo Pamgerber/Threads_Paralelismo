@@ -1,2 +1,2 @@
 # Thread_Paralelismo
-Implementação desenvolvida utilizando Pthreads e OpenMP
+O presente trabalho apresentado é um resumo técnico em que foi realizado uma implementação em C sendo que no primeiro esquema é de uma multiplicação entre matrizes utilizando o sistema single thread e multithread, no qual o último foi feito usando as bibliotecas Pthread e OpenMP e no segundo esquema é da soma de todas as posições com uma dimensão (um array 1D) utilizando também o sistema single thread e multithread, que logo após concluí-los, foram analisados e discutidos os resultados finais obtidos. 
